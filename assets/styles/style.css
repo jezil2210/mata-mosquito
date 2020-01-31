@@ -1,0 +1,44 @@
+html {
+	cursor: url(../images/mata_mosquito.png) 30 30, auto;
+	overflow-y:hidden;
+    overflow-x:hidden;
+}
+body {
+	background-color: darkgreen;
+}
+.mosquito{
+	width:50px;
+	height:50px;
+}
+mark{
+	background-color: #13e252;
+}
+p{
+  font-size: 20px;
+}
+#pontuacao{
+	margin-right: 93%;
+}
+.painel {
+	position: absolute;
+	padding: 10px;
+	left: 91%;
+	border-top:solid 1px #fff;
+	background-color: #fff;
+	opacity: 0.7
+}
+.vidas {
+	float: left;
+}
+#button{
+  margin-left: 45%;
+}
+#button2{
+	margin-left: 45%;
+	margin-top: -8%;
+}
+a:hover, a:visited, a:focus, a:active
+{ 
+	text-decoration: none;
+    color: inherit; 
+}
