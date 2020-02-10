@@ -10,3 +10,6 @@
    <li>Normal</li>
    <li>WTF</li>
 <ul>      
+
+   <img src="assets/images/gameM.png" width="50%" height="50%"/>
+<p>aaaaaaaaaaaaaaaaaaaa</p>
