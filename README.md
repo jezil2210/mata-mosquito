@@ -12,4 +12,4 @@
 <ul>      
 
    <img src="assets/images/gameM.png" width="50%" height="50%"/>
-<p>aaaaaaaaaaaaaaaaaaaa</p>
+   <img src="assets/images/over.png" width="50%" height="50%"/>
