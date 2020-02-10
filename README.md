@@ -3,7 +3,7 @@
 
 <p>Jogo Simples com níveis de dificuldade que fazem variar a quantidade de mosquitos a se matar</p>
 
-<img src="images/initial.png" />
+<img src="assets/images/initial.png" />
 
 <ul>
    <li>Eazy</li>
