@@ -8,7 +8,7 @@
    <li>WTF</li>
 </ul>
 
-  <p><mark><a href="https://jezil2210.github.io/mata-mosquito/" style="color:inherit;">JOGUE AQUI</a></mark></>
+   <p><a href="https://jezil2210.github.io/mata-mosquito/">JOGUE AQUI</a></>
 
    <img src="assets/images/initial.png" width="50%" height="50%"/>
    <img src="assets/images/gameM.png" width="50%" height="50%"/>
