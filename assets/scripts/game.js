@@ -49,7 +49,7 @@ function randomPosition() {
         if (lifes <= 0) {
             window.location.href = '../game-over.html'
         } else {
-            document.getElementById('v' + lifes).src = "images/coracao_vazio.png"
+            document.getElementById('v' + lifes).src = "assets/images/coracao_vazio.png"
             lifes--
         }
     }
@@ -59,7 +59,7 @@ function randomPosition() {
     positionX = positionX < 0 ? 0 : positionX
     positionY = positionY < 0 ? 0 : positionY
 
-    mosquito.src = 'images/mosquito.png'
+    mosquito.src = 'assets/images/mosquito.png'
     mosquito.className = 'mosquito'
     mosquito.style.left = positionX + 'px'
     mosquito.style.top = positionY + 'px'
