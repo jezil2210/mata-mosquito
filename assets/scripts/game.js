@@ -9,7 +9,7 @@ level = level.replace("?","")
 
 if(level === 'normal') {
 	//1500
-	mosquitoTime = 5000
+	mosquitoTime = 1500
 } else if(level === 'dificil') {
 	//1000
 	mosquitoTime = 1000
