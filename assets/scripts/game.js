@@ -35,7 +35,7 @@ function randomPosition() {
         let pointCounter = setInterval(function () {
             if (points >= 10) {
                 clearInterval(createMosquito)
-                window.location.href = '../victory.html'
+                window.location.href = 'https://jezil2210.github.io/victory.html'
             }else{
             document.getElementById('contador').innerHTML = points
             }
@@ -47,7 +47,7 @@ function randomPosition() {
         document.getElementById('mosquito').remove()
 
         if (lifes <= 0) {
-            window.location.href = '../game-over.html'
+            window.location.href = 'https://jezil2210.github.io/game-over.html'
         } else {
             document.getElementById('v' + lifes).src = "assets/images/coracao_vazio.png"
             lifes--
