@@ -35,7 +35,7 @@ function randomPosition() {
         let pointCounter = setInterval(function () {
             if (points >= 10) {
                 clearInterval(createMosquito)
-                window.location.href = 'victory.html'
+                window.location.href = '../victory.html'
             }else{
             document.getElementById('contador').innerHTML = points
             }
@@ -47,7 +47,7 @@ function randomPosition() {
         document.getElementById('mosquito').remove()
 
         if (lifes <= 0) {
-            window.location.href = 'game-over.html'
+            window.location.href = '../game-over.html'
         } else {
             document.getElementById('v' + lifes).src = "images/coracao_vazio.png"
             lifes--
