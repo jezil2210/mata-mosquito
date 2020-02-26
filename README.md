@@ -6,7 +6,9 @@
    <li>Eazy</li>
    <li>Normal</li>
    <li>WTF</li>
-</ul>      
+</ul>
+
+  <p><mark><a href="https://jezil2210.github.io/mata-mosquito/" style="color:inherit;">JOGUE AQUI</a></mark></>
 
    <img src="assets/images/initial.png" width="50%" height="50%"/>
    <img src="assets/images/gameM.png" width="50%" height="50%"/>
